@@ -1,0 +1,11 @@
+{
+  "name": "tailwindcss-yarn-pnp",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
