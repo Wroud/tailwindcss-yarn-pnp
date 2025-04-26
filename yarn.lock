@@ -1476,6 +1476,8 @@ __metadata:
     tailwindcss: "npm:^4.1.4"
     typescript: "npm:^5.8.3"
     vite: "npm:^6.3.2"
+  peerDependencies:
+    react: ^19.1.0
   languageName: unknown
   linkType: soft
 

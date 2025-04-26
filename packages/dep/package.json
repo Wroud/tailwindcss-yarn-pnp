@@ -7,11 +7,12 @@
   },
   "devDependencies": {
     "@types/react": "^19",
+    "react": "^19.1.0",
     "tailwindcss": "^4.1.4",
     "typescript": "^5.8.3",
     "vite": "^6.3.2"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^19.1.0"
   }
 }
